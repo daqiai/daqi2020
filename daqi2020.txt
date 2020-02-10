@@ -1,2 +1,5 @@
 def index(request):
 	pass
+
+def register(request):
+	pass
